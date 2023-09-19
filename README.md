@@ -3,7 +3,7 @@
 ## SETUP INSTRUCTIONS
 
 ```
-git clone 
+git clone https://github.com/KrishRathor/SIHROUND2-INNOV8RS.git
 ```
 
 ```
